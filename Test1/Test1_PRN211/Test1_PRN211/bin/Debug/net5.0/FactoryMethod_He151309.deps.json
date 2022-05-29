@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FactoryMethod_He151309/1.0.0": {
+        "runtime": {
+          "FactoryMethod_He151309.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethod_He151309/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

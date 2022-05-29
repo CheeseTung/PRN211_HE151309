@@ -1,112 +1,63 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using static System.Console;
 namespace Test1_PRN211
 {
-    // The Creator class declares the factory method that is supposed to return
-    // an object of a Product class. The Creator's subclasses usually provide
-    // the implementation of this method.
-    abstract class Creator
+    //Both the Lion and Tiger classes will
+    //implement the IAnimal interface method
+    public interface IAnimal
     {
-        // Note that the Creator may also provide some default implementation of
-        // the factory method.
-        public abstract IProduct FactoryMethod();
-
-        // Also note that, despite its name, the Creator's primary
-        // responsibility is not creating products. Usually, it contains some
-        // core business logic that relies on Product objects, returned by the
-        // factory method. Subclasses can indirectly change that business logic
-        // by overriding the factory method and returning a different type of
-        // product from it.
-        public string SomeOperation()
-        {
-            // Call the factory method to create a Product object.
-            var product = FactoryMethod();
-            // Now, use the product.
-            var result = "Creator: The same creator's code has just worked with "
-                + product.Operation();
-
-            return result;
-        }
+        void AboutMe();
+    }
+    //Lion class
+    public class Lion : IAnimal
+    {
+        public void AboutMe() => WriteLine("This is Lion");
+    }
+    //Tiger class
+    public class Tiger : IAnimal
+    {
+        public void AboutMe() => WriteLine("This is Tiger");
     }
 
-    // Concrete Creators override the factory method in order to change the
-    // resulting product's type.
-    class ConcreteCreator1 : Creator
+    //Both LionFactory and TigerFactory will use this
+    public abstract class AnimalFactory
     {
-        // Note that the signature of the method still uses the abstract product
-        // type, even though the concrete product is actually returned from the
-        // method. This way the Creator can stay independent of concrete product
-        // classes.
-        public override IProduct FactoryMethod()
-        {
-            return new ConcreteProduct1();
-        }
+        /*Factory method lets a class defer instantiation to subclasse
+         The following method will create a Tiger on a Lion,
+        but at this point it does not know whether it will get a Lion or a Tiger.
+        It will be decided by the subclasses i.e.LionFactory or TigerFactory.
+        So, the following method is acting like a factory (of creation).*/
+        public abstract IAnimal CreateAnimal();
     }
-
-    class ConcreteCreator2 : Creator
+    //LionFactory is used to create Lions
+    public class LionFactory : AnimalFactory
     {
-        public override IProduct FactoryMethod()
-        {
-            return new ConcreteProduct2();
-        }
+        //Creating a Lion
+        public override IAnimal CreateAnimal() => new Lion();
     }
-
-    // The Product interface declares the operations that all concrete products
-    // must implement.
-    public interface IProduct
+    //TigerFactory is used to create tigers
+    public class TigerFactory : AnimalFactory
     {
-        string Operation();
+        //Create a tiger
+        public override IAnimal CreateAnimal() => new Tiger();
     }
-
-    // Concrete Products provide various implementations of the Product
-    // interface.
-    class ConcreteProduct1 : IProduct
-    {
-        public string Operation()
-        {
-            return "{Result of ConcreteProduct1}";
-        }
-    }
-
-    class ConcreteProduct2 : IProduct
-    {
-        public string Operation()
-        {
-            return "{Result of ConcreteProduct2}";
-        }
-    }
-
-    class Client
-    {
-        public void Main()
-        {
-            Console.WriteLine("App: Launched with the ConcreteCreator1.");
-            ClientCode(new ConcreteCreator1());
-
-            Console.WriteLine("");
-
-            Console.WriteLine("App: Launched with the ConcreteCreator2.");
-            ClientCode(new ConcreteCreator2());
-        }
-
-        // The client code works with an instance of a concrete creator, albeit
-        // through its base interface. As long as the client keeps working with
-        // the creator via the base interface, you can pass it any creator's
-        // subclass.
-        public void ClientCode(Creator creator)
-        {
-            // ...
-            Console.WriteLine("Client: I'm not aware of the creator's class," +
-                "but it still works.\n" + creator.SomeOperation());
-            // ...
-        }
-    }
-
+    
     class Program
     {
         static void Main(string[] args)
         {
-            new Client().Main();
+            Console.WriteLine("***Factory Method Pattern Demo ***\n");
+            //Create a list AnimalFactory included TigerFactory and LionFactory
+            List<AnimalFactory> animalFactoryList = new List<AnimalFactory>
+            {
+                new TigerFactory(), new LionFactory()
+            };
+            foreach (var animal in animalFactoryList)
+            {
+                animal.CreateAnimal().AboutMe();
+            }
+            ReadLine();
         }
     }
 }

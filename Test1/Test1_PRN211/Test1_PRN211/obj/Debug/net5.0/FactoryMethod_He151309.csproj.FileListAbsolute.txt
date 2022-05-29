@@ -1,0 +1,16 @@
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.exe
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.deps.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.runtimeconfig.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.runtimeconfig.dev.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\FactoryMethod_He151309.pdb
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.csproj.AssemblyReference.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.AssemblyInfoInputs.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.AssemblyInfo.cs
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.csproj.CoreCompileInputs.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\refint\FactoryMethod_He151309.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.pdb
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\FactoryMethod_He151309.genruntimeconfig.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\ref\FactoryMethod_He151309.dll

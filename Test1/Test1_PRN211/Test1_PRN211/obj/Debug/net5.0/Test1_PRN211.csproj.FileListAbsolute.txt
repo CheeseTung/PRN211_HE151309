@@ -1,0 +1,16 @@
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.exe
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.deps.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.runtimeconfig.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.runtimeconfig.dev.json
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\bin\Debug\net5.0\Test1_PRN211.pdb
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.csproj.AssemblyReference.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.AssemblyInfoInputs.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.AssemblyInfo.cs
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.csproj.CoreCompileInputs.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\refint\Test1_PRN211.dll
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.pdb
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\Test1_PRN211.genruntimeconfig.cache
+D:\.Net_HomeWork\Test1\Test1_PRN211\Test1_PRN211\obj\Debug\net5.0\ref\Test1_PRN211.dll

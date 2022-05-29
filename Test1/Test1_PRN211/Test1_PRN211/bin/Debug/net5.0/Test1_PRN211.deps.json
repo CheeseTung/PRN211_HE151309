@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Test1_PRN211/1.0.0": {
+        "runtime": {
+          "Test1_PRN211.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test1_PRN211/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

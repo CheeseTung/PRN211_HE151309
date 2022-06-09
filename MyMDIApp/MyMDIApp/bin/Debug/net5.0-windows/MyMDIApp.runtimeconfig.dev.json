@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chitung\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chitung\\.nuget\\packages"
+    ]
+  }
+}

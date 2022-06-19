@@ -1,0 +1,62 @@
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\refint\MyStoreWinApp.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmAddOrUpdate.resources
+E:\StudyFPT Kì 5\PRN211\test\PRN211_HE150527\Assignment_2_Nguyễn Đình Thọ_HE150527\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.Properties.Resources.resources
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmAddOrUpdate.resources
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.Properties.Resources.resources
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\refint\MyStoreWinApp.dll
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\Assignment\Assignment\PRN211_HE151309\Ass1\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net_HomeWork\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj": {}
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj": {}
   },
   "projects": {
-    "D:\\.Net_HomeWork\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj": {
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net_HomeWork\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj",
+        "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj",
         "projectName": "FactoryMethod_He151309",
-        "projectPath": "D:\\.Net_HomeWork\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj",
+        "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Test1\\Test1_PRN211\\Test1_PRN211\\FactoryMethod_He151309.csproj",
         "packagesPath": "C:\\Users\\chitung\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net_HomeWork\\Test1\\Test1_PRN211\\Test1_PRN211\\obj\\",
+        "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Test1\\Test1_PRN211\\Test1_PRN211\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chitung\\AppData\\Roaming\\NuGet\\NuGet.Config",

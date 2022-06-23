@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assignment\\Assignment\\PRN211_HE151309\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {}
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {}
   },
   "projects": {
-    "D:\\Assignment\\Assignment\\PRN211_HE151309\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+        "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
         "projectName": "DemoDataProviderFactory",
-        "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+        "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
         "packagesPath": "C:\\Users\\chitung\\.nuget\\packages\\",
-        "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\DemoDataProviderFactory\\DemoDataProviderFactory\\obj\\",
+        "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chitung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

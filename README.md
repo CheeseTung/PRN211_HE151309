@@ -1,1 +1,11 @@
 # PRN211_HE151309
+
+PRN211_SE1612.NET_HE150247
+
+PRN211 Summer 2022 
+
+Class ID: SE1612.NET
+
+Student ID: HE151309
+
+Student Name: Nguyễn Chi Tùng

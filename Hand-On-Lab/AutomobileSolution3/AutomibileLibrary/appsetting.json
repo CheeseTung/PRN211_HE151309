@@ -1,0 +1,10 @@
+{
+
+
+
+  "ConnectionStrings": {
+    "MyStockDB": "Server=DESKTOP-J22KVQD\\SQLEXPRESS;uid=sa;pwd=1234567;database=MyStock"
+  }
+
+
+}

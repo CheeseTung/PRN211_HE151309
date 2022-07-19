@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+      "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Hand-On-Lab\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
       "projectName": "AutomobileLibrary",
-      "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+      "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Hand-On-Lab\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
       "packagesPath": "C:\\Users\\chitung\\.nuget\\packages\\",
-      "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\AutomobileSolution\\AutomobileLibrary\\obj\\",
+      "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Hand-On-Lab\\Lab1\\AutomobileLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chitung\\AppData\\Roaming\\NuGet\\NuGet.Config",

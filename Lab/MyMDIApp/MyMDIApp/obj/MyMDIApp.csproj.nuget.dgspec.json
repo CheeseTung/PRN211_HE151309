@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestC#\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj": {}
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj": {}
   },
   "projects": {
-    "D:\\TestC#\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj": {
+    "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestC#\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj",
+        "projectUniqueName": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj",
         "projectName": "MyMDIApp",
-        "projectPath": "D:\\TestC#\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj",
+        "projectPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\MyMDIApp\\MyMDIApp\\MyMDIApp.csproj",
         "packagesPath": "C:\\Users\\chitung\\.nuget\\packages\\",
-        "outputPath": "D:\\TestC#\\MyMDIApp\\MyMDIApp\\obj\\",
+        "outputPath": "D:\\Assignment\\Assignment\\PRN211_HE151309\\Lab\\MyMDIApp\\MyMDIApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chitung\\AppData\\Roaming\\NuGet\\NuGet.Config",
